@@ -1,2 +1,4 @@
 # git_test
-testing git setup for Odin 
+
+testing git setup for Odin
+Hello Odin!
